@@ -43,5 +43,8 @@ In web programming, quite recently, but developing at a fast pace. My past exper
 * 1995 - start of a passion for programming (BASIC, Pascal). 
 
 
-
+##### Skills
+ JavaScript (ES5) (ES6 +), React, Redux, Node.js, GraphQL, REST API, HTML5, BEM, CSS3, SASS, Bootstrap, GULP, Webpack, Babel, Git.
+I know the basics of testing: Jest, Enzyme.
+I understand the principles of SOLID, REST architecture.
 
