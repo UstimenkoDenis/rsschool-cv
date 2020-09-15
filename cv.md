@@ -9,7 +9,7 @@
 ##### Contact Information
   - +7(963)556-03-62
   - ustimenkodenis@mail.ru
-  - 169319 Russian Federation, Ukhta, Lenina pr. 61-161
+  - 169319 Russian Federation, Ukhta, Lenina pr. 61
 
 ---
 
@@ -26,23 +26,24 @@ In web programming, quite recently, but developing at a fast pace. My past exper
 ---
 
 ##### Career
-* **2007 - present  | (UMZ) Ukhta Mechanical Plant | MECHANICAL ENGINEER
-* **2006 - 2007     | (UEMZ) Ukhta Mechanical Experimental Plant | MECHANICAL ENGINEER
+* **2007 - present  | (UEMZ) Ukhta Mechanical Experimental Plant | MECHANICAL ENGINEER
+* **2006 - 2007     | (UMZ) Ukhta Mechanical Plant | MECHANICAL ENGINEER
 
 --- 
 
 ##### Education
-* 2019 -2020 took Udemy** courses (50 hours) - Complete course JS + React, Redux.
-* 2017 studied JAVA, wrote simple programs for Windows.
-* 2015 - 2016 wrote games in ActionScript
-* 2006 - Ukhta State University - mechanical engineer
-* 2001 - 2002 was fond of system programming in ASM and C. Working with disassemblers, DOS interrupts and Win32 API.
-* 1997 - 2000 - study at GOU "UVIST", programming in C ++ and Delphi.
-* 1995 - start of a passion for programming (BASIC, Pascal). 
+* 2019 -2020  | took Udemy** courses (50 hours) - Complete course JS + React, Redux. |
+* 2017        | studied JAVA, wrote simple programs for Windows. |
+* 2015 - 2016 | wrote games in ActionScript |
+* 2006        | Ukhta State University - mechanical engineer |
+* 2001 - 2002 | Was fond of system programming in ASM and C. Working with disassemblers, DOS interrupts and Win32 API. |
+* 1997 - 2000 | Study at GOU "UVIST", programming in C ++ and Delphi. |
+* 1995        | Start of a passion for programming (BASIC, Pascal). | 
 
 
 ##### Skills
  JavaScript (ES5) (ES6 +), React, Redux, Node.js, GraphQL, REST API, HTML5, BEM, CSS3, SASS, Bootstrap, GULP, Webpack, Babel, Git.
 I know the basics of testing: Jest, Enzyme.
 I understand the principles of SOLID, REST architecture.
+
 
