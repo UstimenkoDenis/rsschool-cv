@@ -1,6 +1,18 @@
 :root {
     --height-header: 50vh;
-    --height-footer: 50px;    
+    --height-footer: 50px;
+    --lang-rus: 100%;
+    --lang-eng: 50%;
+    --lang-ger: 60%;
+    --skill-js: 90%;
+    --skill-react: 80%;
+    --skill-php: 60%;
+    --skill-laravel: 20%;
+    --skill-mysql: 40%;
+    --skill-node: 20%;
+    --skill-mongo: 40%;
+    --skill-html: 95%;
+    --skill-css: 70%;        
 }
 
 .html {
@@ -10,84 +22,85 @@
 
 .russian {    
     display: block;
-    width: 100%;
+    width: var(--lang-rus);
     height: 10px;
     background-color: #fff;
 }
 
 .english {    
     display: block;
-    width: 50%;
+    width: var(--lang-eng);
     height: 10px;
     background-color: #fff;
 }
 
 .german {    
     display: block;
-    width: 60%;
+    width: var(--lang-ger);
     height: 10px;
     background-color: #fff;    
 }
 
 .js {    
     display: block;
-    width: 90%;
+    width: var(--skill-js);
     height: 10px;
     background-color: #fff;
 }
 
 .react {    
     display: block;
-    width: 80%;
+    width: var(--skill-react);
+
     height: 10px;
     background-color: #fff;
 }
 
 .php {    
     display: block;
-    width: 60%;
+    width: var(--skill-php);
     height: 10px;
     background-color: #fff;
 }
 
 .laravel {    
     display: block;
-    width: 30%;
+    width: var(--skill-laravel);
     height: 10px;
     background-color: #fff;
 }
 
 .mysql {    
     display: block;
-    width: 50%;
+    width: var(--skill-mysql);
     height: 10px;
     background-color: #fff;
 }
 
 .node {    
     display: block;
-    width: 30%;
+    width: var(--skill-node);
     height: 10px;
     background-color: #fff;
 }
 
 .mongo {    
     display: block;
-    width: 40%;
+    width: var(--skill-mongo);
     height: 10px;
     background-color: #fff;
 }
 
 .html {    
     display: block;
-    width: 95%;
+    width: var(--skill-html);
     height: 10px;
     background-color: #fff;
 }
 
 .css {    
     display: block;
-    width: 80%;
+    width: var(--skill-css);
     height: 10px;
     background-color: #fff;
 }
@@ -186,10 +199,10 @@
     .about__title {
         font-size: 1.8rem;
         line-height: 2.7rem;
-        padding: 10px;
+        padding: 10px 10px 10px 15px;
         margin-bottom: 20px;
         background-color: brown;
-        border-radius: 0 15px 15px 0;
+        border-radius: 15px 15px 15px 15px;
     }
 
     .about__text {
@@ -202,7 +215,7 @@
     }
 
     .about-right {
-        padding: 0px 50px 0px 50px;
+        padding: 0px 0px 0px 50px;
     }
          
     .about-me__right {
@@ -226,7 +239,7 @@
     }
 
     .about-right__title {
-        width: 100%;
+        width: 95%;
         color: #fff;
         margin-top: 50px;
         font-size: 1.8rem;
@@ -234,7 +247,7 @@
         padding: 10px 10px 10px 20px;
         margin-bottom: 20px;
         background-color: brown;
-        border-radius: 40px 0 0 40px;
+        border-radius: 40px 40px 40px 40px;
     }
 
 /* About-me style end */
